@@ -7,17 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>test.e</name>
+    <name>testE</name>
 
     <description>
         A test app for android
     </description>
 
-    <author href="" email="rshopr@hotmail.com">
+    <author email="rshopr@hotmail.com">
         Threepwood Jones
     </author>
     
-    <gap:platform name="ios" />
     <gap:platform name="android" >/
 
 </widget>
